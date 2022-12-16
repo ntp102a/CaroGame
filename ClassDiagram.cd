@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameCaro.CaroChess">
+    <Position X="1.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="GameCaro.CaroChess.END" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CaroChess.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AMAQAAAAB5FwBBeIAA0AAQMhAISAABACAAAAEQQQAgA=</HashCode>
+      <FileName>CaroChess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameCaro.ChessBoard">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAQAAAEAAAABAAAIAgAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ChessBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameCaro.ChessPiece">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAABAgAgAABAgAAAAAAAAgAAAAAAAIAAABA=</HashCode>
+      <FileName>ChessPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameCaro.SocketData">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAABAAAAAQAAAAAAAAAIAAAACA=</HashCode>
+      <FileName>Services\Connect\SocketData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameCaro.SocketManager">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAKAEAABIAAAAAAAEkAAAAAIAAAAgAQAAAABAAEAAI=</HashCode>
+      <FileName>Services\Connect\SocketManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="GameCaro.SocketCommand" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAADAAAAAAAAAAAAAAAAAABAAIAAAA=</HashCode>
+      <FileName>Services\Connect\SocketData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
